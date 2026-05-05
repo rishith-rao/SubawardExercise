@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SubawardApp/SubawardApp.csproj" />
+  <Project Path="SubawardTests/SubawardTests.csproj" />
+</Solution>
