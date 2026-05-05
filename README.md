@@ -41,24 +41,24 @@ cd SubawardTests
 dotnet test
 
 ---
-
 ## Project Structure
+
+```
 SubawardExercise/
 ├── SubawardApp/
-│ ├── Data/
-│ │ ├── SubawardBudgetExample1.xlsx
-│ │ ├── SubawardBudgetExample2.xlsx
-│ │ └── SubawardBudgetExample3.xlsx
-│ ├── Program.cs
-│ └── SubawardApp.csproj
+│   ├── Data/
+│   │   ├── SubawardBudgetExample1.xlsx
+│   │   ├── SubawardBudgetExample2.xlsx
+│   │   └── SubawardBudgetExample3.xlsx
+│   ├── Program.cs
+│   └── SubawardApp.csproj
 │
 ├── SubawardTests/
-│ ├── UnitTest1.cs
-│ └── SubawardTests.csproj
+│   ├── UnitTest1.cs
+│   └── SubawardTests.csproj
 │
 └── SubawardExercise.sln
-
----
+```
 
 ## Assumptions
 
